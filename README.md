@@ -13,6 +13,12 @@
 
 ## My Resume
 
+</td>
+</tr>
+</table>
+
+## My Resume
+
 ### Education
 - Bachelor of Fundamental Informatics and IT from Voronezh State University, 
   Faculty of Applied Mathematics, Informatics, and Mechanics (2023)
@@ -27,12 +33,6 @@
 ### Additional
 - Like physics a bit
 - Enthusiastic about code optimization, but also like to choose best-practice
-
-</td>
-</tr>
-</table>
-
-
 
 <!--
 **timirgfleev/timirgfleev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
