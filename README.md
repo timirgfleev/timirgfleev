@@ -11,7 +11,22 @@
 </td>
 <td>
 
-### Hi there 👋
+## My Resume
+
+### Education
+- Bachelor of Fundamental Informatics and IT from Voronezh State University, 
+  Faculty of Applied Mathematics, Informatics, and Mechanics (2023)
+
+### Skills
+- Proficient in C++, familiar with Python
+- Experience in web development using HTML, CSS, and JavaScript
+- Knowledge of SQL and database management
+- Strong mathematical background
+
+
+### Additional
+- Like physics a bit
+- Enthusiastic about code optimization, but also like to choose best-practice
 
 </td>
 </tr>
@@ -19,14 +34,13 @@
 
 
 
-
-
-
-
-
-
 <!--
 **timirgfleev/timirgfleev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+Man, I dont know if my resume is too big...((( I like to be as much short to introduce myself, but it's hard to do so on the internet...
+
+
 
 Here are some ideas to get you started:
 
@@ -38,4 +52,21 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
+
+
+## My Resume
+
+### Education
+- 
+
+
+
+### Work Experience 
+
+### Projects
+- [Project 1](https://github.com/username/project1): A description of project
+
 -->
